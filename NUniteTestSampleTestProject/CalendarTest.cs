@@ -19,7 +19,7 @@ namespace NUniteTestSampleTestProject
         }
     }
      [TestFixture]
-    public class CalendarTest
+    public class CalendarTest1
     {
         [Test, Explicit("This test runs explisit")]
         public void TestConvertToMonths()
